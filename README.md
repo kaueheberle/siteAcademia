@@ -4,8 +4,8 @@ Site desenvolvido para uma academia, com foco em layout responsivo, design moder
 
 ## 📸 Prévia do Projeto
 
-![Tela Inicial](./prints/home.png)
-![Tela de Login](./prints/body.png)
+![Tela Inicial](./assets/images/home.png)
+![Tela de Login](./assets/images/body.png)
 
 ## 🚀 Tecnologias
 
